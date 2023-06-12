@@ -1,5 +1,9 @@
 # vue-grid-layout
 
+基于vue-grid-layout开发
+
+拖拽组件，可自定义布局demo
+
 ## Project setup
 ```
 yarn install
@@ -10,10 +14,7 @@ yarn install
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
